@@ -1,0 +1,17 @@
+{
+  "name": "nur-quran-school-crm",
+  "version": "1.0.0",
+  "description": "CRM для школы Корана «Нур»: ученики, семьи, группы, посещаемость, хифз, оплаты, заявки, зарплата учителей",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js",
+    "reset": "node server/reset.js",
+    "test": "node --test test/*.test.js"
+  },
+  "license": "UNLICENSED"
+}

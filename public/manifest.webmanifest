@@ -1,0 +1,10 @@
+{
+  "name": "Школа Корана «Нур»",
+  "short_name": "Нур",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f3ee",
+  "theme_color": "#1f6a50",
+  "lang": "ru",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
